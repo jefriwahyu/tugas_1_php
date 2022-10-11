@@ -1,6 +1,6 @@
 # Tugas 1 PHP
 
-Membuat <b>Daftar Menu Makanan Menggunakan Array</b>
+Membuat <b><i>Daftar Menu Makanan Menggunakan Array</i></b>
 
 <b>Output in browser : </b>
 
